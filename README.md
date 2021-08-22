@@ -2,6 +2,9 @@
 - ⚡ Estudando UX/UI Design & ReactJS  
 - 🧑 About me: I'm Tecnerd e Poeta 
 - ✨ Seja forte e corajoso 1:19
+
+##
+
 <div>
   <a href="https://github.com/amaurycaique">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=amaurycaique&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
