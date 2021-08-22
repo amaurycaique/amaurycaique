@@ -2,7 +2,7 @@
 
 - 🌱 Estudando UI/UX Design & ReactJS -  
 - 🧑 About me: I'm Tecnerd e Poeta 
-- ✨ Seja forte e corajosa 1:19
+- ✨ Seja forte e corajoso 1:19
 
 <div>
   <a href="https://github.com/amaurycaique">
