@@ -1,5 +1,5 @@
 ### Oi, Eu sou o Amaury Caique 👋
-- ⚡ Estudando UX/UI Design & ReactJS  
+- ⚡ Estudando UX/UI Design & Angular  
 - 🧑 About me: I'm Tecnerd & Poeta 
 - ✨ Seja forte & Corajoso 1:19
 <div>
