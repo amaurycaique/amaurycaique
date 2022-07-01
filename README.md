@@ -1,5 +1,5 @@
 ### Oi, Eu sou o Amaury Caique 👋
-- ⚡ Estudando UX/UI Design & Angular  
+- ⚡ Estudando UX/UI Design  
 - 🧑 About me: I'm Tecnerd & Poeta 
 - ✨ Seja forte & Corajoso 1:19
 <div>
@@ -10,7 +10,6 @@
 
 <div><br>
   <img align="center" alt="Caique-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Caique-React" height="30" width="40" src="https://angular.io/assets/images/logos/angularjs/AngularJS-Shield.svg">
   <img align="center" alt="Caique-Bot" height="30" width="40" src="https://raw.githubusercontent.com/themedotid/bootstrap-icon/HEAD/docs/bootstrap-icon-css.png">
   <img align="center" alt="Caique-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Caique-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
