@@ -1,8 +1,7 @@
 ### Oi, Eu sou o Amaury Caique 👋
  ⚡ Estudando UX/UI Design  <br/>
- :man_technologist: 
- About me: I'm Tecnerd & Poeta
- ✨ Seja forte & Corajoso 1:19
+ :man_technologist: About me: I'm Tecnerd & Poeta <br/>
+ ✨ Seja forte & Corajoso 1:19 <br/>
  :copyright:	 Founder and CEO of Blog Poesiame 
 <div>
   <a href="https://github.com/amaurycaique">
