@@ -1,5 +1,5 @@
 ### Oi, Eu sou o Amaury Caique 👋
- ⚡ Estudando UX/UI Design  
+ ⚡ Estudando UX/UI Design  <br/>
  :man_technologist: 
  About me: I'm Tecnerd & Poeta
  ✨ Seja forte & Corajoso 1:19
