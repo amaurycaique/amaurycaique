@@ -1,5 +1,5 @@
 ### Oi, eu sou o Amaury Caique 👋
- ⚡ Student Front End <br/>
+ ⚡ Student Front End Development <br/>
  :man_technologist: About me: I'm Tecnerd & Poeta <br/>
  ✨ Seja forte & Corajoso 1:19 <br/>
  :copyright:	 Founder and CEO of Blog Poesiame 
